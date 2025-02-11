@@ -4,7 +4,7 @@
 ### Where programming meets creativity—building cool and interesting projects for fun.
 
 ## About
-Project Saikuru is a space dedicated to developing unique, experimental, and exciting programming projects. Inspired by the concept beautiful mathematical concepts and recursion, we embrace continuous learning, iteration, and innovation.
+Project Saikuru is a space dedicated to developing unique, experimental, and exciting programming projects. Inspired by mathematics and recursion, we embrace continuous learning, iteration, and innovation.
 
 ## Goals
 - Explore fun and unconventional programming challenges.
