@@ -1,0 +1,14 @@
+Project_Saikuru/
+│── projects/
+│   │── project1/
+│   │   ├── src/          # Source code
+│   │   ├── docs/         # Documentation for this project
+│   │   ├── README.md     # Project-specific readme
+│   │   ├── main.c        # Main source file
+│   │── project2/
+│   │   ├── src/          
+│   │   ├── docs/         
+│   │   ├── README.md     
+│   │   ├── main.py       
+│── docs/                 # General documentation for Project Saikuru
+│── README.md             # Main repo readme
